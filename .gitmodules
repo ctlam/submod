@@ -1,0 +1,3 @@
+[submodule "path-test-repo"]
+	path = path-test-repo
+	url = git@github.com:ctlam/path-test.git
